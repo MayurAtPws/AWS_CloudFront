@@ -64,8 +64,8 @@ Resource : [Click Here](https://youtu.be/AjlUFYnScBk)
 
 - When it is server from Server 
 
-    ![alt text](imgs/miss.png)
+    ![miss](imgs/miss.png)
 
 - When it is Serving from CF 
 
-    ![alt text](imgs/hit.png)
+    ![hit](imgs/hit.png)
